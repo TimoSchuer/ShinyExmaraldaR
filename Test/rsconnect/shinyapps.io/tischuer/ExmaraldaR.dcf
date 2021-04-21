@@ -5,8 +5,8 @@ account: tischuer
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2962637
-bundleId: 3712693
+bundleId: 4449845
 url: https://tischuer.shinyapps.io/ExmaraldaR/
-when: 1602076525.79542
+when: 1617959881.21497
 asMultiple: FALSE
 asStatic: FALSE
